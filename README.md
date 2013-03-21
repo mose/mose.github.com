@@ -1,4 +1,4 @@
-mose.giithub.com
+mose.github.com
 ================
 
 Personal page
